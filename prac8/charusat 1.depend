@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1713101847 source:d:\charusat 1\main.cpp
+	<iostream>
+	<string>
+	"employee.h"
+	"teaching_employee.h"
+	"non_teach_employee.h"
+
+1713101609 d:\charusat 1\include\employee.h
+	<string>
+
+1713101669 d:\charusat 1\include\teaching_employee.h
+	<string>
+	<employee.h>
+
+1713101669 d:\charusat 1\include\non_teach_employee.h
+	<employee.h>
+
+1713101864 source:d:\github\prac8\src\employee.cpp
+	"employee.h"
+	<iostream>
+	<stdlib.h>
+	<string>
+	<iomanip>
+
+1713101609 d:\github\prac8\include\employee.h
+	<string>
+
+1713101729 source:d:\github\prac8\src\non_teach_employee.cpp
+	"non_teach_employee.h"
+	<iostream>
+	<stdlib.h>
+	<string>
+	<iomanip>
+
+1713101669 d:\github\prac8\include\non_teach_employee.h
+	<employee.h>
+
+1713101789 source:d:\github\prac8\src\teaching_employee.cpp
+	"teaching_employee.h"
+	<iostream>
+	<stdlib.h>
+	<string>
+	<iomanip>
+
+1713101669 d:\github\prac8\include\teaching_employee.h
+	<string>
+	<employee.h>
+

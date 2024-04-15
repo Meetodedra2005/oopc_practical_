@@ -1,0 +1,108 @@
+# depslib dependency file v1.0
+1711731197 source:s:\oopc practical\charusat\src\non_teach_employee.cpp
+	"non_teach_employee.h"
+	<iostream>
+	<stdlib.h>
+	<string>
+	<iomanip>
+
+1711003591 s:\oopc practical\charusat\include\non_teach_employee.h
+	<employee.h>
+
+1711002775 s:\oopc practical\charusat\include\employee.h
+	<string>
+
+1711731617 source:s:\oopc practical\charusat\src\teaching_employee.cpp
+	"teaching_employee.h"
+	<iostream>
+	<stdlib.h>
+	<string>
+	<iomanip>
+
+1711003591 s:\oopc practical\charusat\include\teaching_employee.h
+	<string>
+	<employee.h>
+
+1711732017 source:s:\oopc practical\charusat\main.cpp
+	<iostream>
+	<string>
+	"employee.h"
+	"teaching_employee.h"
+	"non_teach_employee.h"
+
+1711731745 source:s:\oopc practical\charusat\src\employee.cpp
+	"employee.h"
+	<iostream>
+	<stdlib.h>
+	<string>
+	<iomanip>
+
+1712040832 source:s:\oopc practical\79p8\main.cpp
+	<iostream>
+	<string>
+	"employee.h"
+	"teaching_employee.h"
+	"non_teach_employee.h"
+
+1712040832 s:\oopc practical\79p8\include\employee.h
+	<string>
+
+1712040832 s:\oopc practical\79p8\include\teaching_employee.h
+	<string>
+	<employee.h>
+
+1712040832 s:\oopc practical\79p8\include\non_teach_employee.h
+	<employee.h>
+
+1712040832 source:s:\oopc practical\79p8\src\employee.cpp
+	"employee.h"
+	<iostream>
+	<stdlib.h>
+	<string>
+	<iomanip>
+
+1712040832 source:s:\oopc practical\79p8\src\non_teach_employee.cpp
+	"non_teach_employee.h"
+	<iostream>
+	<stdlib.h>
+	<string>
+	<iomanip>
+
+1713100413 source:d:\github\prac13\src\employee.cpp
+	"employee.h"
+	<iostream>
+	<stdlib.h>
+	<string>
+	<iomanip>
+
+1713100712 d:\github\prac13\include\employee.h
+	<string>
+
+1713100456 source:d:\github\prac13\src\non_teach_employee.cpp
+	"non_teach_employee.h"
+	<iostream>
+	<stdlib.h>
+	<string>
+	<iomanip>
+
+1713099761 d:\github\prac13\include\non_teach_employee.h
+	<employee.h>
+
+1713100158 source:d:\github\prac13\src\teaching_employee.cpp
+	"teaching_employee.h"
+	<iostream>
+	<stdlib.h>
+	<string>
+	<iomanip>
+
+1713099761 d:\github\prac13\include\teaching_employee.h
+	<string>
+	<employee.h>
+
+1713100070 source:d:\github\prac13\main.cpp
+	<iostream>
+	<string>
+	"employee.h"
+	"teaching_employee.h"
+	"non_teach_employee.h"
+

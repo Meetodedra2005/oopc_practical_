@@ -18,7 +18,7 @@ int main()
 
     char std_id[7], std_name[10];
     int sem=0, credit = 3,theory[3], practical[3], th_grade[3], pr_grade[3];
-    float sgpa_th,sgpa_pr,sgpa,sgpa1,sgpa2;
+    float sgpa_th=0,sgpa_pr=0,sgpa=0,sgpa1=0,sgpa2=0;
     string sub[3], theoryg[3], practicalg[3];
 
     // Geting the students primary data
@@ -179,12 +179,10 @@ int main()
     for (int i = 0; i < 3; i++)
     {
         sgpa_th = sgpa_th + (th_grade[i] * credit);
-        sgpa_pr = sgpa_pr + (pr_grade[i]*credit);     
-
+        sgpa_pr = sgpa_pr + (pr_grade[i]*credit);    
     }
 
-    cout << sgpa_pr << "  ";
-    cout << sgpa_th << endl;
+
 
     cout << endl;
 
